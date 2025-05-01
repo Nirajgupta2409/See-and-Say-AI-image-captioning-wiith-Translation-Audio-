@@ -8,8 +8,8 @@ This Streamlit app allows users to:
 Just upload an image—the app will describe it in English, let you translate it into multiple Indian Languages, and play audio in both languages.
 
 🚀 **Features**
-📸 AI-based Image Captioning using a pre-trained ViT-GPT2 Transformer model
-🌐 Hindi Translation powered by Google Translate API
+📸 AI-based Image Captioning using a pre-trained ViT-GPT2 Transformer model			
+🌐 Hindi Translation powered by Google Translate API	
 🔊 Text-to-Speech (TTS) using gTTS for both English and Hindi
 🎛️ Streamlit Web App Interface – fast, responsive, and user-friendly
 🧠 Ideal for accessibility, language learning, and education
